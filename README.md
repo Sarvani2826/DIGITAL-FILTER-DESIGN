@@ -14,7 +14,7 @@
 
 ## DESCRIPTION OF TASK
 
-The task involved designing and simulating a digital Finite Impulse Response (FIR) filter using the Verilog Hardware Description Language (HDL). The objective of this project was to implement a digital filtering system capable of processing discrete-time input signals and producing a filtered output based on predefined filter coefficients. FIR filters are widely used in digital signal processing applications because they are inherently stable and provide a linear phase response. The project focused on designing a simple multi-tap FIR filter, implementing it in Verilog, and verifying its functionality through simulation.
+The task involved designing and simulating a Digital Finite Impulse Response (FIR) filter using the Verilog Hardware Description Language (HDL). The objective of this project was to implement a digital filtering system capable of processing discrete-time input signals and producing a filtered output based on predefined filter coefficients. FIR filters are widely used in digital signal processing applications because they are inherently stable and provide a linear phase response. The project focused on designing a simple multi-tap FIR filter, implementing it in Verilog, and verifying its functionality through simulation.
 
 In this design, a four-tap FIR filter architecture was implemented. The output of the FIR filter is determined by performing a weighted sum of the current input sample and several delayed input samples. The mathematical representation of the FIR filter used in this project is given by the equation:
 
@@ -34,3 +34,4 @@ Overall, the project illustrates how digital signal processing algorithms can be
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/32b5fe91-2fbe-44bf-9918-50b79407e903" />
